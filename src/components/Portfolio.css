@@ -1,0 +1,19 @@
+html, body {
+    height: 100vh;
+}
+
+.Portfolio_conteyner
+{
+    overflow: hidden;
+    min-height: 100vh;
+    background-color: rgb(28, 27, 27);
+}
+
+.Portfolio_hiader
+{
+    height: 10vh;
+    width: 100%;
+    background-color: black;
+}
+
+
