@@ -9,6 +9,7 @@ export const PagesRouter = () => {
       <Routes>
         
         <Route path="/" element={<HomePage/>} />
+        <Route path="/home" element={<HomePage/>} />
         
       </Routes>
     );
